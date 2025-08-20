@@ -220,7 +220,8 @@ $totalFiles = count($files);
     </table>
 </div>
 <footer>
-    &copy;2025 <a href="https://jiti.me/">Jiti Expert Corp.</a> Tous droits r&eacute;serv&eacute;.
+    <a href="https://jiti.me/">Jiti Expert Corp.</a>
 </footer>
 </body>
 </html>
+
