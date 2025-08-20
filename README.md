@@ -17,24 +17,14 @@ Un simple **explorateur de fichiers PHP** permettant de naviguer dans les réper
 ## Installation
 
 ```bash
-git clone https://github.com/toncompte/explorateur-fichiers-php.git
+git clone https://github.com/JitiGaming/explorateur-de-fichier-php.git
 ```
 
 1. Placez `index.php` à la racine du répertoire que vous souhaitez explorer  
 2. Rendez-vous dans votre navigateur à :
    ```
-   http://localhost/mon-dossier/index.php
+   http://localhost/index.php
    ```
-
-## Aperçu d’utilisation
-
-Voici un exemple d’organisation des fichiers :
-
-| Dossier/Fichier | Description          |
-|-----------------|----------------------|
-| `/images/`      | Contient les images  |
-| `document.pdf`  | Document principal   |
-| `README.md`     | Ce fichier README    |
 
 ## Sécurité
 
