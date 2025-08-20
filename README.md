@@ -20,7 +20,7 @@ Un simple **explorateur de fichiers PHP** permettant de naviguer dans les réper
 git clone https://github.com/JitiGaming/explorateur-de-fichier-php.git
 ```
 
-1. Placez `index.php` à la racine du répertoire que vous souhaitez explorer  
+1. Placez `index.php` à la racine du domaine ou sous-domaine que vous souhaitez explorer  
 2. Rendez-vous dans votre navigateur à :
    ```
    http://localhost/index.php
