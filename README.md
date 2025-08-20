@@ -13,7 +13,7 @@ Un simple **explorateur de fichiers PHP** permettant de naviguer dans les réper
 
 ## Installation
 
-Placez `index.php` à la racine du domaine ou sous-domaine que vous souhaitez explorer
+Placez `index.php` à la racine du domaine ou sous-domaine que vous souhaitez explorer.
 
 ## Sécurité
 
