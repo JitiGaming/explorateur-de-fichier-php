@@ -17,9 +17,8 @@ Placez `index.php` à la racine du domaine ou sous-domaine que vous souhaitez ex
 
 ## Sécurité
 
-> **Important** : Ce script n’inclut **aucune** authentification.  
-> Il est fortement recommandé de :
-> - Protéger l’accès avec un mot de passe (via `.htaccess`)  
+> **Important** : Ce script n’inclut **aucune** authentification.
+> Il est fortement recommandé de protéger l’accès avec un mot de passe (via `.htaccess`).
 
 ## Licence
 
