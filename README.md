@@ -1,8 +1,6 @@
 # Explorateur de fichiers PHP
 
-[![PHP](https://img.shields.io/badge/PHP-7.4%2B-blue)](https://www.php.net/)  
-[![Licence](https://img.shields.io/badge/Licence-Copyleft-green)](#licence)  
-[![Statut](https://img.shields.io/badge/Statut-Actif-success)](#statut)
+![Explorateur de fichiers PHP](https://raw.githubusercontent.com/JitiGaming/explorateur-de-fichier-php/refs/heads/main/explorateur-de-fichier-php.jpg)
 
 Un simple **explorateur de fichiers PHP** permettant de naviguer dans les répertoires et de visualiser le contenu d’un dossier directement depuis un navigateur web.
 
